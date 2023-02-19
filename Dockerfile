@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 MAINTAINER "UBUNTU"
-RUN "apt install git -y"
+RUN "apt install git  -y"
